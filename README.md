@@ -5,6 +5,9 @@
 	<br>
 	<img src="https://enterprise.github.com/assets/spinners/octocat-spinner-128-26a44333917854c6794d55eac947b1277fced54f1f60c5df5d93431db8753bc5.gif" width="40" height="40">
 	<p>Loading...</p>
+	<a href="">
+	<img src="https://html-to-svg.as-a-service.dev/?url=https://suresh.dev" alt="suresh.dev" width="400" height="400"/>
+	</a>
 	<br>
 	<br>
 	<br>
@@ -12,7 +15,9 @@
 </div>
 
 <!--
-**sureshg/sureshg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/
+https://github.com/sindresorhus/sindresorhus/blob/master/readme.md
+SVG: https://html-to-svg.as-a-service.dev/?url=https://suresh.dev
 
 Here are some ideas to get you started:
 
