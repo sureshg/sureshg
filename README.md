@@ -1,11 +1,12 @@
 <div align="center">
 	<img src="https://enterprise.github.com/assets/spinners/octocat-spinner-128-26a44333917854c6794d55eac947b1277fced54f1f60c5df5d93431db8753bc5.gif" width="40" height="40">
-	<p>Loading...</p>
-	<p align="center">
-	<a href="https://www.twitter.com/sur3shg"><img src="https://img.shields.io/badge/-Twitter-orange?style=flat-square&logo=twitter" alt="Twitter" /></a> 
-	<a href="https://www.reddit.com/user/sureshg/"><img src="https://img.shields.io/badge/-Reddit-green?style=flat-square&logo=reddit" alt="Reddit" /></a> 
+	<p align="center">	
+	<a href="https://www.twitter.com/sur3shg"><img src="https://img.shields.io/badge/Twitter-%40sur3shg-00acee?style=flat-square&logo=twitter" alt="Twitter" /></a> 
+	<a href="https://www.reddit.com/user/sureshg/"><img src="https://img.shields.io/badge/Reddit-sureshg-orange?style=flat-square&logo=reddit" alt="Reddit" /></a> 
 	</p>
 </div>
+
+
 
 <!--
 https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/
