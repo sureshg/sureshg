@@ -5,9 +5,10 @@
 - [![GitHub Workflow Status][jmh_img]][jmh_url]
 - [![GitHub Workflow Status][tc_img]][tc_url]
 - [![GitHub Workflow Status][dn_img]][dn_url]
+- [![GitHub Workflow Status][gha_img]][gha_url]
 - [![GitHub Workflow Status][ic_img]][ic_url]
 - [![GitHub Workflow Status][ks_img]][ks_url]
-- [![GitHub Workflow Status][gha_img]][gha_url]
+
 
 <!-- Add https://github.com/sureshg/graal-native-dockerfile
      Add https://github.com/sureshg/flutter-web-app -->
