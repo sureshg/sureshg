@@ -15,25 +15,25 @@
 
 
 [ojp_url]: https://github.com/sureshg/openjdk-playground/actions
-[ojp_img]: https://img.shields.io/github/workflow/status/sureshg/openjdk-playground/CI?color=green&label=openjdk-playground&logo=java&logoColor=green&style=for-the-badge
+[ojp_img]: https://img.shields.io/github/workflow/status/sureshg/openjdk-playground/CI?label=openjdk-playground&logo=java&style=for-the-badge
 
 [mn_url]: https://github.com/sureshg/micronaut-app/actions                       
-[mn_img]: https://img.shields.io/github/workflow/status/sureshg/micronaut-app/Gradle%20Build?color=green&label=micronaut-app&logo=Github-Actions&logoColor=green&style=for-the-badge
+[mn_img]: https://img.shields.io/github/workflow/status/sureshg/micronaut-app/Gradle%20Build?label=micronaut-app&logo=Github-Actions&style=for-the-badge
 
 [jmh_url]: https://github.com/sureshg/jmh-bench-sample/actions                        
-[jmh_img]:https://img.shields.io/github/workflow/status/sureshg/jmh-bench-sample/JMH%20Sample%20CI?color=green&label=jmh-sample&logo=kotlin&logoColor=green&style=for-the-badge
+[jmh_img]:https://img.shields.io/github/workflow/status/sureshg/jmh-bench-sample/JMH%20Sample%20CI?label=jmh-sample&logo=kotlin&style=for-the-badge
 
 [tc_url]: https://github.com/sureshg/testcontainers-kotlin/actions              
-[tc_img]: https://img.shields.io/github/workflow/status/sureshg/testcontainers-kotlin/Gradle%20Build?color=green&label=testcontainers-kotlin&logo=docker&logoColor=green&style=for-the-badge
+[tc_img]: https://img.shields.io/github/workflow/status/sureshg/testcontainers-kotlin/Gradle%20Build?label=testcontainers-kotlin&logo=docker&style=for-the-badge
 
 [ic_url]: https://travis-ci.org/sureshg/InstallCerts/builds
-[ic_img]: https://img.shields.io/travis/sureshg/InstallCerts.svg?color=green&label=Install-Certs&logo=travis&logoColor=green&style=for-the-badge
+[ic_img]: https://img.shields.io/travis/sureshg/InstallCerts.svg?label=Install-Certs&logo=travis&style=for-the-badge
 
 [ks_url]: https://travis-ci.org/sureshg/InstallCerts/builds
-[ks_img]: https://img.shields.io/travis/sureshg/kotlin-scratchpad.svg?color=green&label=Kotlin-Scratchpad&logo=travis&logoColor=green&style=for-the-badge
+[ks_img]: https://img.shields.io/travis/sureshg/kotlin-scratchpad.svg?label=Kotlin-Scratchpad&logo=travis&style=for-the-badge
 
 [dn_url]: https://github.com/sureshg/dart-native-sample/actions
-[dn_img]: https://img.shields.io/github/workflow/status/sureshg/dart-native-sample/Dart%20Build?color=green&label=Dart%20Native&logo=dart&logoColor=green&style=for-the-badge
+[dn_img]: https://img.shields.io/github/workflow/status/sureshg/dart-native-sample/Dart%20Build?label=Dart%20Native&logo=dart&style=for-the-badge
 
 [gha_url]: https://github.com/sureshg/github-actions-test/actions                       
-[gha_img]: https://img.shields.io/github/workflow/status/sureshg/github-actions-test/Github%20Action%20Test?color=green&label=Github-Action-Test&logo=Github-Actions&logoColor=green&style=for-the-badge
+[gha_img]: https://img.shields.io/github/workflow/status/sureshg/github-actions-test/Github%20Action%20Test?label=Github-Action-Test&logo=Github-Actions&style=for-the-badge
