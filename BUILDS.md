@@ -5,6 +5,7 @@
 - [![GitHub Workflow Status][jmh_img]][jmh_url]
 - [![GitHub Workflow Status][tc_img]][tc_url]
 - [![GitHub Workflow Status][dn_img]][dn_url]
+- [![GitHub Workflow Status][fwa_img]][fwa_url]
 - [![GitHub Workflow Status][gha_img]][gha_url]
 - [![GitHub Workflow Status][ic_img]][ic_url]
 - [![GitHub Workflow Status][ks_img]][ks_url]
@@ -34,6 +35,9 @@
 
 [dn_url]: https://github.com/sureshg/dart-native-sample/actions
 [dn_img]: https://img.shields.io/github/workflow/status/sureshg/dart-native-sample/Dart%20Build?label=Dart%20Native&logo=dart&style=for-the-badge
+
+[fwa_url]: https://github.com/sureshg/flutter-web-app/actions
+[fwa_img]: https://img.shields.io/github/workflow/status/sureshg/flutter-web-app/Dart%20CI?label=Flutter%20WebApp&logo=flutter&style=for-the-badge
 
 [gha_url]: https://github.com/sureshg/github-actions-test/actions                       
 [gha_img]: https://img.shields.io/github/workflow/status/sureshg/github-actions-test/Github%20Action%20Test?label=Github-Action-Test&logo=Github-Actions&style=for-the-badge
