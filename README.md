@@ -1,6 +1,7 @@
 <div align="center">
-	<img src="https://github.com/sureshg/sureshg/blob/master/lottie.gif" width="15%"> 
+	<img src="https://github.com/sureshg/sureshg/blob/master/lottie.gif" width="5%"> 
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sureshg&layout=compact" width="20%"> 
+	<img src="https://github.com/sureshg/sureshg/blob/master/lottie.gif" width="5%"> 
 	<p align="center">	
 	<a href="https://www.twitter.com/sur3shg"><img src="https://img.shields.io/badge/Twitter-%40sur3shg-00acee?style=flat-square&logo=twitter" alt="Twitter" /></a> 
 	<a href="https://www.reddit.com/user/sureshg/"><img src="https://img.shields.io/badge/Reddit-sureshg-orange?style=flat-square&logo=reddit" alt="Reddit" /></a> 
