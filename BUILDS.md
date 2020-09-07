@@ -7,8 +7,8 @@
 - [![GitHub Workflow Status][dn_img]][dn_url]
 - [![GitHub Workflow Status][fwa_img]][fwa_url]
 - [![GitHub Workflow Status][gha_img]][gha_url]
-- [![GitHub Workflow Status][ic_img]][ic_url]
 - [![GitHub Workflow Status][ks_img]][ks_url]
+- [![GitHub Workflow Status][ic_img]][ic_url]
 
 
 <!-- Add https://github.com/sureshg/graal-native-dockerfile
@@ -30,8 +30,8 @@
 [ic_url]: https://travis-ci.org/sureshg/InstallCerts/builds
 [ic_img]: https://img.shields.io/travis/sureshg/InstallCerts.svg?label=Install-Certs&logo=travis&style=for-the-badge
 
-[ks_url]: https://travis-ci.org/sureshg/InstallCerts/builds
-[ks_img]: https://img.shields.io/travis/sureshg/kotlin-scratchpad.svg?label=Kotlin-Scratchpad&logo=travis&style=for-the-badge
+[ks_url]: https://github.com/sureshg/kotlin-scratchpad/actions
+[ks_img]: https://img.shields.io/github/workflow/status/sureshg/kotlin-scratchpad/Gradle%20Build?label=kotlin-scratchpad&logo=Github-Actions&style=for-the-badge
 
 [dn_url]: https://github.com/sureshg/dart-native-sample/actions
 [dn_img]: https://img.shields.io/github/workflow/status/sureshg/dart-native-sample/Dart%20Build?label=Dart%20Native&logo=dart&style=for-the-badge
