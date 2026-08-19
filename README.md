@@ -1,6 +1,6 @@
 Hi there 👋
 
-🦋 [Bluesky](https://bsky.app/profile/suresh.dev) · 🐦 [Twitter](https://twitter.com/sur3shg) · 📮 [Reddit](https://www.reddit.com/user/sureshg/)
+🦋 [Bluesky](https://bsky.app/profile/suresh.dev) · 🐦 [Twitter](https://twitter.com/sur3shg)
 
 
 ![Profile Views](https://u8views.com/api/v1/github/profiles/356994/views/day-week-month-total-count.svg)
